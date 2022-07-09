@@ -1,4 +1,4 @@
-### Hi there 👋 This is Saikat from Bangalore
+### Hi there 👋 This is Saikat from Bangalore, India
 - 🔭 I’m currently working in UniQin.ai and Building an application for E-commerce sellers which is powered by Machine Learning and provides Data Driven predictions and analytics
 - 🌱 I’m currently learning Cloud and MLOPs
 - I’m looking to collaborate on Building a Python Library
