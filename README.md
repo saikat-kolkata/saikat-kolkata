@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikat-kolkata&show_icons=true&theme=merko)  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikat-kolkata&show_icons=true&theme=merko&count_private=true)  
