@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Saikat from Bangalore, India
 - 🔭 I’m currently working in UniQin.ai and Building an application for E-commerce sellers that is powered by Machine Learning and data analytics and provides Data-Driven predictions and analytics
-- I love to code and that is my profession too :) I have single-handedly written a data pipeline that pulls millions of data points each day efficiently, also which is error-free, efficient, scalable, and super cheap while consuming AWS resources!  
-- 🌱 I’m proficient in Cloud and MLOPs, microservices, and deployments. I am eager to learn every day and I adopt quickly with new tech environment
+- I love to code and that is my profession too :) I have single-handedly written data pipelines that pull millions of data points each day efficiently, which is error-free, efficient, scalable, and super cheap while consuming AWS resources!
+- 🌱 I’m proficient in Cloud and MLOPs, microservices, and deployments. I am eager to learn every day and I adapt quickly with new tech environment
 - I’m looking to collaborate on Building a Python Library
 <!--
 **saikat-kolkata/saikat-kolkata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
